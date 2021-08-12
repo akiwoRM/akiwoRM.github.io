@@ -3,7 +3,7 @@ layout: default
 title: トップページ
 ---
 
-# Blender Memo fo Rigging
+# Blender Memo for Rigging
 
 このページはMayaでRiggingを行ってきた筆者が  
 BlenderでのRiggingを学ぶ過程で躓いた事をメモしたものになります。  
