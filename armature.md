@@ -1,0 +1,12 @@
+---
+layout: default
+title: Armatureについて
+---
+
+# Maya JointとArmatureについて
+
+
+MayaにおけるJointとしてはArmatureのボーンが相当するのだが  
+単体のオブジェクトではなく、Armatureオブジェクト内になるのなのがイメージし難い部分だった。  
+なので各ボーンへのアクセスには編集モードにする必要がある。  
+モードについては別途ページにまとめる（予定）  
