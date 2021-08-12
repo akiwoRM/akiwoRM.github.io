@@ -20,7 +20,7 @@ ama = bpy.data.armatures['rig']
 UI上からリネームした場合でも、取得しているオブジェクト（上記の例ではama）はちゃんと同期する。  
 オブジェクト指向や！  
 ## Boneを追加
-```python
+{% highlight python %}
 # 一度EditModeにする
 bpy.ops.object.mode_set(mode="EDIT")
 bone = ama.data.edit_bones.new("Bone")
@@ -30,4 +30,4 @@ bone.head = (0, 0, 0)
 # tailを指定するとBoneになる
 # Z-upに注意
 bone.tail = (0, 0, 1)
-```
+{% endhighlight %}
