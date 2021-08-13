@@ -2,6 +2,7 @@
 layout: default
 title: Modeについて
 ---
+[トップページ](index.md)
 
 # Modeについて
 
