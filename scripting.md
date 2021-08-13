@@ -16,7 +16,7 @@ ama = bpy.context.object
 # リネーム
 ama.name = 'rig'
 # 名前を指定してのオブジェクト取得（こっちの方がしっくりくる）
-ama = bpy.data.armatures['rig']
+ama = bpy.data.objects['rig']
 ```
 UI上からリネームした場合でも、取得しているオブジェクト（上記の例ではama）はちゃんと同期する。  
 オブジェクト指向や！  
