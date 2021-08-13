@@ -3,8 +3,6 @@ layout: default
 title: トップページ
 ---
 
-# Blender Memo for Rigging
-
 このページはMayaでRiggingを行ってきた筆者が  
 BlenderでのRiggingを学ぶ過程で躓いた事をメモしたものになります。  
 現在の使用バージョン: 2.93.2
