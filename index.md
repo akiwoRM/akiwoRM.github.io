@@ -10,3 +10,4 @@ BlenderでのRiggingを学ぶ過程で躓いた事をメモしたものになり
 * [Maya Joint と Armatureの比較](armature.md)
 * [Edit ModeとPose Modeの違い](mode.md)
 * [ScriptingによるRigging](scripting.md)
+* [ikについて](ik.md)
