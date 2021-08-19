@@ -13,8 +13,8 @@ MayaにおけるJointとしてはArmatureのボーンが相当するのだが
 モードについては別途ページにまとめる（予定）  
 
 ### data
-- Joint orientはない  
-
+- Joint orientはない?  
+要調査  
 
 ## Skinning
 
